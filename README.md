@@ -1,5 +1,5 @@
 # Cyclistic Case Study From Google Data Analytics Certification
-## Case Study: How Does a Bike-Share Navigate Speedy Success?
+**Case Study: How Does a Bike-Share Navigate Speedy Success?**
 This is capstone from Google Data Analytics certification available on coursera.org.
 In this case study I perform many real-world tasks of a junior data analyst in fictional company - Cyclistic.
 
